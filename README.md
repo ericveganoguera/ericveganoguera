@@ -1,4 +1,4 @@
-<h1 align="center">>Hola 👋, Me llamo Èric Vega Noguera</h1>
+<h1 align="center">Hola 👋, Me llamo Èric Vega Noguera</h1>
 <h3 align="center">Soy un desarrollador web de España</h3>
 
 - 🌱 Estoy realizando un **Bootcamp de IronHack**
