@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, Me llamo Èric Vega Noguera</h1>
-<h3 align="center">Soy un desarrollador Frontend Junior</h3>
+<h3 align="center">Soy un desarrollador web</h3>
 
-- 👨‍💻 Puedes ver mis proyectos en mi página personal: [ericveganoguera.com](ericveganoguera.com)
+- 👨‍💻 Puedes ver mis proyectos en mi página personal en los repositorios de GitHub
 
-- 💬 Mis lenguajes más desarollados són **html, css y javascript**
+- 💬 Mis lenguajes más desarollados són **html, css y javascript, node.js, react.js**
 
-- 📫 Si quieres contactarme puese a través del siguiente correo electrónico:  **ericveganoguera@gmail.com**
+- 📫 Si quieres contactarme puedes a través del siguiente correo electrónico:  **ericveganoguera@gmail.com**
 
 <h3 align="left">LinkedIn:</h3>
 <p align="left">
