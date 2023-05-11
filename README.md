@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Me llamo Èric Vega Noguera</h1>
-<h3 align="center">Soy un desarrollador web de España</h3>
+<h3 align="center">Soy un desarrollador web full-stack de España</h3>
 
-- 🌱 Estoy realizando un **Bootcamp de IronHack**
+- 🌱 Soy un recien gradudo del **Bootcamp de IronHack / Web Development** 
 
 - 📫 Podeis contactar conmigo en **ericveganoguera@gmail.com**
 
